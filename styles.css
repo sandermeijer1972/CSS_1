@@ -1,0 +1,19 @@
+#rode-tekst {
+  color: red;
+}
+
+.black-border {
+  border: 5px solid black;
+}
+
+#green-background {
+  background-color: green;
+}
+
+.schuin-geel {
+  font-style: italic;
+  color: yellow;
+}
+#lblauw {
+  background-color: lightblue;
+}
